@@ -44,4 +44,4 @@ It only launches other tools **when the user clicks a button**.
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-irm https://raw.githubusercontent.com/F3aarLeSS/WindowsToolsLauncher/main/WTLauncher.ps1 | iex
+irm https://raw.githubusercontent.com/F3aarLeSS/WTLauncher/main/WTLauncher.ps1 | iex
